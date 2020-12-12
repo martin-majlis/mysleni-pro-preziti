@@ -1,7 +1,10 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Test Pate](test-pate.md)
+
+## Přemýšlení
+
+* [Exponenciální růst](premysleni/exponencialni-rust.md)
 
 ## Koronavirus
 
