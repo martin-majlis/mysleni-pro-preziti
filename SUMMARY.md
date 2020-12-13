@@ -9,6 +9,7 @@
 * [Počítání se správnými čísly](premysleni/pocitani-se-spravnymi-cisly.md)
 * [Používání průměrů](premysleni/pouzivani-prumeru.md)
 * [Předpovídání](premysleni/predpovidani.md)
+* [Matice záměn](premysleni/matice-zamen.md)
 
 ## Koronavirus
 
