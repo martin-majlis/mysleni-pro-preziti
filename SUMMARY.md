@@ -18,4 +18,5 @@
 ## Očkování
 
 * [Vývoj](ockovani/vyvoj.md)
+* [Mýdlo vs RNA vakcína](ockovani/mydlo-vs-rna-vakcina.md)
 
