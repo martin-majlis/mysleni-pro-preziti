@@ -54,10 +54,6 @@ I kdyby celkové finanční náklady při použití takovéto testovací strateg
 
 Představme si zjednodušený příklad, kdy můžeme předvídat jenom jestli bude mrznout \(**P**, pozitivní\) nebo ne \(**N**, negativní\). Chyba typu 1 \(**FP**\) je, že předpovíme, že bude mrznout a ono bude teplo. Taková chyba naštve všechny lidi, kteří chteli jít na výlet a nešli nebo zbytečně nesli s sebou zimní oblečení. Chyba typu 2 \(**FN**\) je, že předpovíme, že nebude mrznout a mrznout začne. Taková chyba ohrozí všechny lidi, kteří si na výlet vyrazili na lehko.
 
-#### Soudní proces
-
-Na soudní proces se také můžeme dívat jako předpovídání \(test\) toho, jestli je člověk vinen \(**N**, negativní\) nebo nevinen \(**P**, pozitivní\). Chyba typu 1 \(FP\) je, že neodsoudíme člověka, který se provinil. Chyba typu 2 \(FN\) je, že odsoudíme člověka, který se neprovinil.
-
 ### Odkazy
 
 * [Chyby typu 1 a 2](https://cs.wikipedia.org/wiki/Chyby_typu_I_a_II)
