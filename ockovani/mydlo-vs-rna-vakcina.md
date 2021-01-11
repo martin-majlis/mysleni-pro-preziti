@@ -76,7 +76,7 @@ Když znáte základy, tak určitě máte několik nápadů, jak byste se mohli 
 
 Pokud vás napadlo, že byste mohli použít podobnou nemoc, která se vyskytuje u jiného zvířete, tak jste právě objevili první [vakcínu](https://cs.wikipedia.org/wiki/Vakc%C3%ADna), stejně jako Edward Jennera \(1796\), který naočkoval hnis z vřídků kravských neštovic Jamesi Philippsovi \(za 6 týdnů se uzdravil\) a následně ověřil, že se nenakazí pravými neštovicemi.
 
-Váš další nápad může být, že se pokusíte RNA viru nějak náhodně pozměnit. Když budete mít štěstí, tak se poškodí instrukce, které vir potřebuje k šíření, ale instrukce na výrobu antigenu \(zástrčky\) zůstanou nezměnené. Pokud štěstí mít nebudete, tak vám vznikne stále funkční vir, nebo vir s poškozeným antigenem. S pokrokem v technologiích získáte možnost lépe mířit, kde se ta změna stane.
+Váš další nápad může být, že se pokusíte RNA viru nějak náhodně pozměnit. Když budete mít štěstí, tak se poškodí instrukce, které vir potřebuje k šíření, ale instrukce na výrobu antigenu \(zástrčky\) zůstanou nezměnené. Pokud štěstí mít nebudete, tak vám vznikne stále funkční vir \(takže lidé onemocní\), nebo vir s poškozeným antigenem \(takže se jim nevytvoří imunita\). S pokrokem v technologiích získáte možnost lépe mířit, kde se ta změna stane.
 
 Ve 21. století již nemusíte "naslepo" měnit vir. Pokročilé technologie vám umožní rozpoznat antigen, také vám umožní získat instrukce potřebné k jeho výrobě, a následně je přímo vyrábět. Takovéto technologie vám pomůžou s následujícímí nápady:
 
