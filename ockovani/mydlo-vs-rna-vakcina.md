@@ -90,13 +90,13 @@ Může vás napadnout, že buňce podstrčíte instrukce pro výrobu antigenu. K
 
 V okamžiku, kdy se objeví nový virus, tak:
 
-1. Vyrobte instrukce \(mRNA\) pro výrobu zásuvky \(antigenu\) - spike protejnu
+1. Vyrobte instrukce \(mRNA\) pro výrobu zásuvky \(antigenu\) - spike proteinu
 2. Vyrobte obaly.
 3. Instrukce dejte do obalů.
 4. Dostaňte obaly do člověka.
 5. Buňky přijmou obaly a 
 6. Buňky začnou vyrábět antigen podle návodu.
-7. Buňkám se na povrchu objeví zásuvka \(antigen\) od SARS CoV-2 - spike protejn.
+7. Buňkám se na povrchu objeví zásuvka \(antigen\) od SARS CoV-2 - spike protein.
 8. Imunitní systém se naučí, jak antigen vypadá a tyto buňky s ním zničí.
 
 #### AstraZeneca \(oxfordská vakcína\)
@@ -111,31 +111,39 @@ Váš další nápad může být, že vezmete nějaký existující vir. Z jeho 
 
 V okamžiku, kdy se objeví nový virus, tak:
 
-1. K instrukcím svého předpřipraveného viru přidej instrukce pro výrobu spike protejnu.
+1. K instrukcím svého předpřipraveného viru přidej instrukce pro výrobu spike proteinu.
 2. Vyrob viry.
 3. Dostaň viry do člověka.
 4. V těle člověka budou viry, které nejsou nebezpečné, ale mají antigen nového viru.
 5.  Imunitní systém se naučí, jak antigen vypadá a viry s ním zničí.
 
-#### Pozorování
+### Zpátky k mýdlu
 
-Určitě jste si všimli, že obě dvě tyto moderní vakcíny mají velmi dobrou vlastnost. Skládají se ze dvou částí. První je univerzální \(obal na RNA nebo upravený virus\), takže ji můžete vylepšovat a testovat samostatně. Druhou částí jsou instrukce pro specifický antigen nového viru. U SARS CoV-2 jsme měli štěstí, že obdobný vir se vyskytl v letech 2002 a 2012, takže jsme měli představu, co hledat. 
+Bez teorie je velmi těžké přijít na to, jak upravit postup, aby bylo mýdlo vhodné na citlivou pokožku, aby dělalo barvy zářivější a bílou bělejší. Náhodnými změnami se vám může podařit dosáhnout požadovaného efektu, stejně tak jaké zázračného čističe z [Císařova pekaře](https://www.youtube.com/watch?v=JC-VkFkKE8c).
 
-#### Historie
+#### Jak funguje mýdlo
 
-1. Zjistěte antigen - u koronaviru je to spike protejn \(ví se od 2002\).
-2. Zjistěte, která část RNA obsahuje instrukce na výrobu antigenu \(ví se od 2002\).
-3. Zjistěte, která část RNA obsahuje instrukce pro výrobu antigenu pro SARS CoV-2 \(ví se od ledna 2020\).
+V mýdle jsou uhlíkaté řetězce, kde jeden konec se rád spojuje s tukem, zatímco druhý s vodou. Když se mýdlo dostane k tuku, tak se tukomilné konce spojí s tukem, a vodomilné konce čouhají ven. Když je tuk takto obalený, tak se dá snadno spláchnout vodou. Bakterie i viry mají také tukový obal, takže mýdlo pomáhá i s jejich odstraňováním.
 
-### Opět mýdlo
+#### Jak zrychlit vývoj mýdla
 
-#### Jak to funguje
+Pro zrychlení vývoje mýdla je dobré ho rozdělit do několika kroků. První najdeme a otestujeme látku, která je dobrá v obalování tuků. Takových látek najdeme několik s různými výhodami a nevýhodami.
 
-Detailní popis fungování mýdla je na [wikipedii](https://cs.wikipedia.org/wiki/M%C3%BDdlo#Chemick%C3%A1_podstata_m%C3%BDdla). Ve zkratce jsou v mýdle uhlíkaté řetězce, kde jeden konec se rád spojuje s tukem, zatímco druhý s vodou. Když se mýdlo dostane k tuku, tak se tukomilné konce spojí s tukem, a vodomilné konce čouhají ven. Když je tuk takto obalený, tak se dá snadno spláchnout vodou. Bakterie i viry mají také tukový obal, takže mýdlo pomáhá i s jejich odstraňováním.
+V dalším kroku můžeme využít náš osvědčený základ a přidávat další látky, které upravují další vlastnosti mýdla. Nikoho při sledování reklamy na prací prášek, šampón nebo mýdlo nenapadne, že je to podezřele rychle, protože vylepšit mýdlo trvalo stovky roků.
 
+#### Zpátky k vakcíně
 
+Určitě jste si všimli, že obě dvě tyto moderní vakcíny mají velmi dobrou vlastnost. Skládají se ze dvou částí. První je univerzální \(obal na RNA nebo upravený virus\), který můžeme vylepšovat a testovat samostatně. RNA vakcíny jsou známé již od roku 1990.
 
+Druhou částí jsou instrukce pro specifický antigen nového viru. Díky rozšíření [viru](../koronavirus/o-viru.md) SARS v roce 2002 a MERS v roce 2012 se vědělo, na kterou část viru se zaměřit - spike protein. 
 
+Takže když Čína zveřejnila 10. ledna 2010 RNA nového viru, tak už 11. ledna BioNTech navrhnul 10 různých kandidátů na vakcínu proti SARS CoV-2 a jeden z nich je nyní schválená a dostupný pod názvem Comirnaty.
+
+Pokud vás výroba vakcíny zajímá, tak doporučuji přečíst - [https://benedikz.space/articles/reverse-engineering-zdrojoveho-kodu-vakciny-biontech-pfizer.html](https://benedikz.space/articles/reverse-engineering-zdrojoveho-kodu-vakciny-biontech-pfizer.html).
+
+### Závěr
+
+Jestli nám nějaké technologie nahání strach nebo ji považujeme za neškodnou, závisí na našem způsobu, jak o ní přemýšlíme. Pokud budeme o mýdle přemýšlet jako o chemickém svinstvu rozpuštěném v tuku, tak dává smysl raději žít ve špíně. Pokud známe princip fungování mýdla, tak ho můžeme spokojeně používat. Pokud o něm nebudeme vědět nic, tak můžeme jenom slepě někomu věřit.
 
 ### Poznámky
 
@@ -157,15 +165,18 @@ Zpátky k Popelce. Pokud by Popelka sypala popel do kotle, tak by téměř nikdo
 
 #### Poznámka 3
 
+Vakcínu od BioNTechu si můžete dokonce vyrobit doma. Postup je následující:
+
+1. Stáhněte si RNA vakcíny - [https://mednet-communities.net/inn/db/media/docs/11889.doc](https://mednet-communities.net/inn/db/media/docs/11889.doc).
+2. Kupte si tiskárnu - [https://codexdna.com/products/bioxp-system/](https://codexdna.com/products/bioxp-system/).
+3. Tiskněte si 10 dávek za [hodinu](https://www.bioworld.com/articles/497271-codex-dna-takes-vaccine-printing-from-concept-to-reality).
+4. Pro lepší aplikovatelnost přidejte další látky podle receptu - [https://cs.wikipedia.org/wiki/Tozinameran](https://cs.wikipedia.org/wiki/Tozinameran)
+
+Výhodou je, že přesně budete vědět, co v té vakcíně máte. 
+
+#### Poznámka 4
+
 Poznámka k tomu, jak funguje imunita. Když se Evropané dostali do Ameriky, tak imunitní systém původních obyvatel neznal evropské patogeny. Během pár desetiletí zemřelo [90% místní populace](https://cs.wikipedia.org/wiki/Panensk%C3%A1_populace).
-
-#### 
-
-
-
-
-
-
 
 ### Odkazy
 
@@ -181,5 +192,9 @@ Poznámka k tomu, jak funguje imunita. Když se Evropané dostali do Ameriky, ta
 * Byl jednou jeden život - Tělesná stráž - [https://www.youtube.com/watch?v=x3QivMNbcrM&list=PL\_c00IPCdRoGD0k6aG7725OaqHQQffcVf&index=2](https://www.youtube.com/watch?v=x3QivMNbcrM&list=PL_c00IPCdRoGD0k6aG7725OaqHQQffcVf&index=2)
 * Pravé neštovice - [https://cs.wikipedia.org/wiki/Prav%C3%A9\_ne%C5%A1tovice](https://cs.wikipedia.org/wiki/Prav%C3%A9_ne%C5%A1tovice)
 * Panenská populace - [https://cs.wikipedia.org/wiki/Panensk%C3%A1\_populace](https://cs.wikipedia.org/wiki/Panensk%C3%A1_populace)
-* * Informace o vakcínách - [https://www.mc-praha.cz/mcp/prehled-vakcin-proti-covid-19-mechanismy-ucinku-vyhody-a-nevyhody/](https://www.mc-praha.cz/mcp/prehled-vakcin-proti-covid-19-mechanismy-ucinku-vyhody-a-nevyhody/)
+* RNA Vakcína - [https://cs.wikipedia.org/wiki/RNA\_vakc%C3%ADna](https://cs.wikipedia.org/wiki/RNA_vakc%C3%ADna)
+* Informace o vakcínách - [https://www.mc-praha.cz/mcp/prehled-vakcin-proti-covid-19-mechanismy-ucinku-vyhody-a-nevyhody/](https://www.mc-praha.cz/mcp/prehled-vakcin-proti-covid-19-mechanismy-ucinku-vyhody-a-nevyhody/)
+* Očkovací látky - [https://www.vakciny.net/principy\_ockovani/pr\_02.html](https://www.vakciny.net/principy_ockovani/pr_02.html)
+* [https://learnaboutcovid19.org/questions/why-was-pfizers-vaccine-developed-so-quickly-and-why-should-this-speed-not-worry-the-public/](https://learnaboutcovid19.org/questions/why-was-pfizers-vaccine-developed-so-quickly-and-why-should-this-speed-not-worry-the-public/)
+* Reverse Engineering zdrojového kódu vakcíny proti SARS-CoV-2 od BioNTech/Pfizer - [https://benedikz.space/articles/reverse-engineering-zdrojoveho-kodu-vakciny-biontech-pfizer.html](https://benedikz.space/articles/reverse-engineering-zdrojoveho-kodu-vakciny-biontech-pfizer.html)
 
