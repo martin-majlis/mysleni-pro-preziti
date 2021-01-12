@@ -10,6 +10,7 @@
 * [Používání průměrů](premysleni/pouzivani-prumeru.md)
 * [Předpovídání](premysleni/predpovidani.md)
 * [Matice záměn](premysleni/matice-zamen.md)
+* [Imunizace teorie](premysleni/imunizace-teorie.md)
 
 ## Koronavirus
 
