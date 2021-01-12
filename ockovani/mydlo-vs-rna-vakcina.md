@@ -2,7 +2,7 @@
 
 Při sledování Popelky jsem si uvědomil, že se nejspíše zdrojem popela nebylo třídění zrní a popela, protože by použila síto, protože síto bylo vymyšleno k třídění zrní a hlíny. Popelka tedy nejspíše používala popel k čištění mastného nádobí nebo k výrobě mýdla, aby mohla prát. Potom mi došlo, že bych nikomu nevěřil, že mýdlo může fungovat. Zatímco u RNA vakcíny mi přijde, že je úplně jasné, že to bude fungovat.
 
-### Mýdlo
+## Mýdlo
 
 [Mýdlo](https://cs.wikipedia.org/wiki/M%C3%BDdlo) používáme všichni a ani nám nepřijde, že je to velmi sofistikovaná technologie. Popelka nejspíše používala takovýto postup:
 
@@ -25,7 +25,7 @@ Detailní popis fungování mýdla je na [wikipedii](https://cs.wikipedia.org/wi
 
 Když by mi někdo tvrdil, že smícháním mastnoty a popela vyrobím přípravek na odstraňování mastnoty, tak bych mu nevěřil. Ještě více fascinující je, že technologie výroby mýdla je 2000 roků stará.
 
-### RNA Vakcína
+## RNA Vakcína
 
 Výroba RNA vakcíny je založena na pár základních skutečnostech:
 
@@ -38,17 +38,11 @@ Výroba RNA vakcíny je založena na pár základních skutečnostech:
    1. Vir obsahuje RNA
    2. Vir se přichytí na buňku - vir a buňka musí mít odpovídající zástrčky
    3. Vir 
-
-
-
-1. DNA/RNA je sbírka instrukcí, jak vyrábět různé součástky
-2. Zjisti, jak funguje buňka
-3. Zjisti, jak funguje vir
+3. DNA/RNA je sbírka instrukcí, jak vyrábět různé součástky
+4. Zjisti, jak funguje buňka
+5. Zjisti, jak funguje vir
    1. Zjisti, ze kterých součástek se vir skládá a jak fungují
    2. Ziskej RNA viru
    3. Zjisti, kde jsou instrukce pro jednotlivé 
-
-
-
-1. Získej genetickou informaci viru
+6. Získej genetickou informaci viru
 
