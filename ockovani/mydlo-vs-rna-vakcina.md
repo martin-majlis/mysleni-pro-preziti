@@ -2,7 +2,7 @@
 
 Při sledování Popelky jsem si uvědomil, že se nejspíše nezašpinila od popela během třídění zrní a popela, ale nejspíše ho používala k čištění mastného nádobí nebo k výrobě mýdla, aby mohla prát. Potom mi to došlo. Skoro nikdo by nevěděl, co to Popelka dělá, protože jsme na mýdlo zvyklí z obchodu.
 
-### Mýdlo
+## Mýdlo
 
 [Mýdlo](https://cs.wikipedia.org/wiki/M%C3%BDdlo) používáme všichni a ani nám nepřijde, že je to velmi sofistikovaná technologie. Pokud chcete vyrábět mýdlo jako Popelka, tak postup je následující:
 
@@ -26,6 +26,7 @@ Při sledování Popelky jsem si uvědomil, že se nejspíše nezašpinila od po
 #### Historie
 
 Již staří Sumerové \(2600 př. n. l.\) vyráběli a používali mýdlo. Odtud se technologie výroby mýdla dostala přes Babylon, Mezopotámii, Egypt do Řecka a později do Říma. Ve 2. století n. l. římský lékař Galén upozornil na výhodý mýdla a začalo se používat k hygieně. Ve 14. století se výroba mýdla rošířila z Itálie a Francie dále do Evropy. V 15. století vznikl v Praze cech mydlářů.
+
 
 Ještě na začátku 18. století bylo mýdlo považováno za škodlivé pro lidský organismus. To je 4300 roků od jeho vynálezu. Pokud jste viděli Klub Rváčů \(Fight Club\), tak tam je přímo scéna, kdy [Tyler posype Jackovi ruku](https://www.youtube.com/watch?v=zvtUrjfnSnA) moderní náhradou potaše a ten mu do ní vypálí díru.
 
@@ -198,4 +199,3 @@ Poznámka k tomu, jak funguje imunita. Když se Evropané dostali do Ameriky, ta
 * Očkovací látky - [https://www.vakciny.net/principy\_ockovani/pr\_02.html](https://www.vakciny.net/principy_ockovani/pr_02.html)
 * [https://learnaboutcovid19.org/questions/why-was-pfizers-vaccine-developed-so-quickly-and-why-should-this-speed-not-worry-the-public/](https://learnaboutcovid19.org/questions/why-was-pfizers-vaccine-developed-so-quickly-and-why-should-this-speed-not-worry-the-public/)
 * Reverse Engineering zdrojového kódu vakcíny proti SARS-CoV-2 od BioNTech/Pfizer - [https://benedikz.space/articles/reverse-engineering-zdrojoveho-kodu-vakciny-biontech-pfizer.html](https://benedikz.space/articles/reverse-engineering-zdrojoveho-kodu-vakciny-biontech-pfizer.html)
-

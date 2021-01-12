@@ -14,8 +14,7 @@ Velice populární je dělení počtu nových pacientů v nemocnicích počtem n
 
 Výše uvedené dva příklady ze zdravotnictví mají jednu společnou vlastnost - trvá velmi dlouho, než se nevhodné chování nějak projeví. Takže rada - nečistěte si zuby a kuřte maximum cigaret, přece si nenecháte říkat, co máte dělat - je pro autora velmi bezpečná, protože se okamžitě neprojeví. A i kdyby se jí lidé řídili, tak zdravotnictví bude mít dost času se na vzniklou situaci připravit. Naopak rada - pijte savo, nebo vdechujte propan-butan a pak ho zapalte, abyste zabili viry - jsou nebezpečné nejen pro autora, ale povedou k okamžitému přetížení zdravotnictví, takže bude jasné, že nebyly dobré.
 
-### Pozorování
+## Pozorování
 
-Pokud má přechod mezi jednotlivými stavy prodlevu, musím ji co nejdříve zjistit, abych ji mohl zahrnout do svých odhadů. Pro COVID trvá okolo 10 dnů, než se člověk dostane do nemocnice a okolo 21 dnů, než nemoci podlehne. Pro zjištění nebezpečnosti musím dělit počet lidí v nemocnici počtem nemocných lidí před 10 dny.  
-
+Pokud má přechod mezi jednotlivými stavy prodlevu, musím ji co nejdříve zjistit, abych ji mohl zahrnout do svých odhadů. Pro COVID trvá okolo 10 dnů, než se člověk dostane do nemocnice a okolo 21 dnů, než nemoci podlehne. Pro zjištění nebezpečnosti musím dělit počet lidí v nemocnici počtem nemocných lidí před 10 dny.
 

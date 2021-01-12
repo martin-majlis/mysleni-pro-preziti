@@ -36,22 +36,12 @@ Chvíli po tom, co král oznámil svoji soutěž, tak se k němu na hrad dostav�
 
 Z prvních výsledků vidíme, že lektvary mají i vedlejší účinek, že občas dobrovolníka přemění na ropuchu. Na první pohled to vypadá, že tým A má perfektní lektvar \(všichni dobrovolníci našli kartu a žádný se neproměnil v ropuchu\), tým B má o trochu horší výsledky, zatímco C má nejhorší výsledky.
 
-Naštěstí se král zajímal o matematiku, tak na svůj první dojem nedá a rozhodne se použít [vědeckou metodu](https://cs.wikipedia.org/wiki/V%C4%9Bdeck%C3%A1_metoda) a 
-
-
+Naštěstí se král zajímal o matematiku, tak na svůj první dojem nedá a rozhodne se použít [vědeckou metodu](https://cs.wikipedia.org/wiki/V%C4%9Bdeck%C3%A1_metoda) a
 
 Proto než král určí výherce, tak si ověří 2 věci:
 
 1. Je ten lektvar bezpečný?
 2. Skutečně ten lektvar funguje?
-
-
-
-
-
-
-
-
 
 [https://colab.research.google.com/drive/1YjOP0Q6EtLlLcN5\_8FTit4LLppoICO0v?usp=sharing](https://colab.research.google.com/drive/1YjOP0Q6EtLlLcN5_8FTit4LLppoICO0v?usp=sharing)
 

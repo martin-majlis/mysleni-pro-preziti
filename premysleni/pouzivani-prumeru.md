@@ -6,9 +6,7 @@ Pokud se v každém kraji pod plně obsazeným autem utrhne krajnice a auto se s
 
 Návštěva baru, koncert nebo sportovního utkání super přenašečem, tak spíše odpovídá nehodě autobusu se všemi nepříznivými důsledky.
 
-Další problém je, že nám v takových situacích přestanou dobře fungovat průměry. U každého příspěvku ohledně průměrných platů jsou stovky komentářů s informací, že průměr nic neznamená, protože ho ovlivňují manažeři a politici, zatímco normální člověk má mnohem méně. Také je tam vždycky několikrát komentář, že když jsou dva lidi, jeden sní celé kuře a druhý nedostane nic, tak se mají v průměru dobře, protože každý z nich měl průměrně půl kuřete. S kapacitou nemocnic je to stejné jako s kuřaty. Pokud jsou dvě nemocnice, kde jedna je úplně prázdná a druhá úplně plná, tak je sice pravda, že průměrná obsazenost je 50%, ale neřekne nám to nic o tom, jestli se člověku dostane kvalitní zdravotní péče.  
+Další problém je, že nám v takových situacích přestanou dobře fungovat průměry. U každého příspěvku ohledně průměrných platů jsou stovky komentářů s informací, že průměr nic neznamená, protože ho ovlivňují manažeři a politici, zatímco normální člověk má mnohem méně. Také je tam vždycky několikrát komentář, že když jsou dva lidi, jeden sní celé kuře a druhý nedostane nic, tak se mají v průměru dobře, protože každý z nich měl průměrně půl kuřete. S kapacitou nemocnic je to stejné jako s kuřaty. Pokud jsou dvě nemocnice, kde jedna je úplně prázdná a druhá úplně plná, tak je sice pravda, že průměrná obsazenost je 50%, ale neřekne nám to nic o tom, jestli se člověku dostane kvalitní zdravotní péče.
 
-
-Závěr 3: Je dobré počítat se specifiky dané nemoci. Průměrná čísla za celou republiku můžou být zavádějící. Lokální situace může být mnohem horší.  
-
+Závěr 3: Je dobré počítat se specifiky dané nemoci. Průměrná čísla za celou republiku můžou být zavádějící. Lokální situace může být mnohem horší.
 
