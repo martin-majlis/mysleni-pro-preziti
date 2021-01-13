@@ -1,6 +1,6 @@
 # Princip - Mýdlo vs Vakcína
 
-Při sledování Popelky jsem si uvědomil, že se nejspíše nezašpinila od popela během vybírání zrní z popela, ale nejspíše ho používala k čištění mastného nádobí nebo k výrobě mýdla, aby mohla prát. Potom mi to došlo. Skoro nikdo by nevěděl, co to Popelka dělá, protože jsme na mýdlo zvyklí z obchodu.
+Při sledování Popelky jsem si uvědomil, že se asi nezašpinila od popela během vybírání zrní z popela, ale nejspíše ho používala k čištění mastného nádobí nebo k výrobě mýdla, aby mohla prát. Potom mi to došlo. Skoro nikdo by nevěděl, co to Popelka dělá, protože jsme na mýdlo zvyklí z obchodu.
 
 ## Mýdlo
 
@@ -37,7 +37,7 @@ Když Evropané dorazili do Ameriky, tak s sebou přinesli Evropské nemoci, na 
 
 Když v krátké době zemře velké množství lidí, tak i pokud jste měli štěstí, a přežili jste, tak váš život nebude snadný. Velké množství lidí, na kterých jste byli závislí - kupovali jste od nich jídlo/oblečení, opravovali vám věci, případně jste jim prodávali svoje výrobky - najednou bude chybět.
 
-Pokud chcete, aby lidí umíralo méně, tak se spolu pokusíme vynalézt vakcínu. Abychom si to usnadnili, tak budeme trochu podvádět - seznámíme se základy, takže nebudeme zkoušet věci, co ani nemůžou fungovat.
+Pokud chcete, aby lidí umíralo méně, tak se spolu pokusíme vynalézt vakcínu. Abychom si to usnadnili, tak budeme trochu podvádět - seznámíme se se základy, takže nebudeme zkoušet věci, co ani nemůžou fungovat.
 
 ### Základy
 
