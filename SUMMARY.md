@@ -18,6 +18,6 @@
 
 ## Očkování
 
-* [Vývoj - Souboj s drakem](ockovani/souboj-s-drakem.md)
-* [Princip - Mýdlo vs Vakcína](ockovani/mydlo-vs-rna-vakcina.md)
+* [Vývoj - Souboj s drakem](ockovani/vyvoj-souboj-s-drakem.md)
+* [Princip - Mýdlo vs Vakcína](ockovani/princip-mydlo-vs-rna-vakcina.md)
 

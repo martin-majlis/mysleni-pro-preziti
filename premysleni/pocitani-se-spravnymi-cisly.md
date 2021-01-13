@@ -8,7 +8,7 @@ Nejjednodušším příkladem je rození dětí. Pokud bychom dneska sterilizova
 
 ### Zdravotnictví
 
-Velice populární je dělení počtu nových pacientů v nemocnicích počtem nově detekovaných pro odhadnutí nebezpečnosti nemoci. Na první pohled to může vypadat, že to dává smysl, ale opak je pravdou. Se stejným uvažováním bychom zjistili, že velká část zdravotních doporučení je nesmyslná. Pokud bychom si přestali od zítřejšího rána čistit zuby, tak zítra odpoledne, ani pozítří nebudou plné čekárny lidí se zkaženými zuby. Buď si můžu myslet, že čištění zubů žádný efekt nemá, a že je to vyvolávané kartáčkovou a zubopastařskou lobby, nebo si uvědomím, že jsem dělil špatná čísla. Stejně tak, pokud by všichni dneska začali kouřit a jíst bůček, tak v ordinacích kardiochirurgů se to nijak neprojeví. Stejně tak, i kdyby všichni lidé přestali dneska s kouřením, tak zítra to taky nepůjde poznat. 
+Velice populární je dělení počtu nových pacientů v nemocnicích počtem nově detekovaných pro odhadnutí nebezpečnosti nemoci. Na první pohled to může vypadat, že to dává smysl, ale opak je pravdou. Se stejným uvažováním bychom zjistili, že velká část zdravotních doporučení je nesmyslná. Pokud bychom si přestali od zítřejšího rána čistit zuby, tak zítra odpoledne, ani pozítří nebudou plné čekárny lidí se zkaženými zuby. Buď si můžu myslet, že čištění zubů žádný efekt nemá, a že je to vyvolávané kartáčkovou a zubopastařskou lobby, nebo si uvědomím, že jsem dělil špatná čísla. Stejně tak, pokud by všichni dneska začali kouřit a jíst bůček, tak v ordinacích kardiochirurgů se to nijak neprojeví. Stejně tak, i kdyby všichni lidé přestali dneska s kouřením, tak zítra to taky nepůjde poznat.
 
 #### Rady ke změnám
 
