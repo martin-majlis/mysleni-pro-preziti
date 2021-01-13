@@ -10,6 +10,7 @@
 * [Používání průměrů](premysleni/pouzivani-prumeru.md)
 * [Předpovídání](premysleni/predpovidani.md)
 * [Matice záměn](premysleni/matice-zamen.md)
+* [Imunizace teorie](premysleni/imunizace-teorie.md)
 
 ## Koronavirus
 
@@ -17,6 +18,6 @@
 
 ## Očkování
 
-* [Vývoj](ockovani/vyvoj.md)
-* [Mýdlo vs RNA vakcína](ockovani/mydlo-vs-rna-vakcina.md)
+* [Vývoj - Souboj s drakem](ockovani/vyvoj-souboj-s-drakem.md)
+* [Princip - Mýdlo vs Vakcína](ockovani/princip-mydlo-vs-rna-vakcina.md)
 
