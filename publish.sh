@@ -16,7 +16,7 @@ cd ${MIRROR_DIR};
 wget --mirror --no-parent 'https://martin-majlis.gitbook.io/mysleni-pro-zivot/'
 
 # convert into index.html pages so it can be served
-find . -mindepth 2 -type f -exec mv {} ${TMP_DIR}/index.html \; -exec mkdir -p {} \; -exec mv ${TMP_DIR}/index.html {} \;
+find . -mindepth 2 -type f \( ! -name "index.html" \) -exec mv {} ${TMP_DIR}/index.html \; -exec mkdir -p {} \; -exec mv ${TMP_DIR}/index.html {} \;
 # # fix pages
 find . -type f -exec sed -ri 's/mysleni-pro-zivot//g' {} \;
 find . -type f -exec sed -ri 's/martin-majlis.gitbook.io/mysleniprozivot.cz/g' {} \;
