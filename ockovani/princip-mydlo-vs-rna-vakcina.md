@@ -23,7 +23,7 @@ Při sledování Popelky jsem si uvědomil, že se nejspíše nezašpinila od po
    3. Zahřívejte a míchejte několik hodin.
    4. Po zchladnutí máte mazlavé mýdlo, které se dá používat.
 
-#### Historie
+### Historie
 
 Již staří Sumerové \(2600 př. n. l.\) vyráběli a používali mýdlo. Odtud se technologie výroby mýdla dostala přes Babylon, Mezopotámii, Egypt do Řecka a později do Říma. Ve 2. století n. l. římský lékař Galén upozornil na výhodý mýdla a začalo se používat k hygieně. Ve 14. století se výroba mýdla rošířila z Itálie a Francie dále do Evropy. V 15. století vznikl v Praze cech mydlářů. Mýdlo se hlavně používalo k praní.
 
@@ -31,7 +31,7 @@ Ještě na začátku 18. století bylo mýdlo považováno za škodlivé pro lid
 
 Používali byste něco, co vznikne smícháním tuku s látkou, co vám vypálí díru do ruky \(a získali jste ji z popela\) k mytí rukou? Mysleli byste si, že je to prospěsné pro Vaše zdraví?
 
-### Vakcína
+## Vakcína
 
 Když Evropané dorazili do Ameriky, tak s sebou přinesli Evropské nemoci, na které nebyl imunitní systém Indiánů zvyklý. V prvních 100 letech od objevení zemřelo na nemoci 90% populace. Velké morové epidemi v Evropě zabily 25% veškeré populace. Epidemie pravých neštovic, černého kašle, příušnic a dalších nemocí pravidelně zabíjely velké množství obyvatel.
 
@@ -39,7 +39,7 @@ Když v krátké době zemře velké množství lidí, tak i pokud jste měli š
 
 Pokud chcete, aby lidí umíralo méně, tak se spolu pokusíme vynalézt vakcínu. Abychom si to usnadnili, tak budeme trochu podvádět - seznámíme se základy, takže nebudeme zkoušet věci, co ani nemůžou fungovat.
 
-#### Základy
+### Základy
 
 1. Jak funguje buňka:
    1. Buňka má v jádru DNA.
@@ -70,7 +70,7 @@ Pokud chcete, aby lidí umíralo méně, tak se spolu pokusíme vynalézt vakcí
    2. Imunitní systém se snaží zjistit zástrčku od viru \(3.4\).
    3. Pokud vir narazí do více buňek \(2.5\) než do min \(3.6\), tak vyhraje vir. V opačném případě vyhraje organizmus.
 
-#### Jak zajistit, aby organismus vyhrál
+### Jak zajistit, aby organismus vyhrál
 
 Ze základů plyne, že pokud má mít člověk větší šanci na výhru při skutečném střetnutí s virem, tak je dobré, aby jeho imunitní systém znal zástrčky \(antigenty\). Díky tomu bude moci začít produkovat miny \(protilátky\) o několik dní dříve.
 
@@ -84,7 +84,7 @@ Pokud chcete použít své znalosti z genetiky, tak váš další nápad může 
 
 Ve 21. století již nemusíte "naslepo" měnit vir. Pokročilé technologie vám umožní rozpoznat antigen, také vám umožní získat instrukce potřebné k jeho výrobě, a následně tyto instrukce přímo vyrábět. Takovéto technologie vám pomůžou s následujícímí nápady:
 
-#### BioNTech/Pfizer a Moderna
+### BioNTech/Pfizer a Moderna
 
 Může vás napadnout, že buňce podstrčíte instrukce pro výrobu antigenu. Když se vám to povede, tak buňka na svém povrchu vyrobí antigeny typické pro virus. Díky tomu se je imunitní systém naučí rozpoznávat, aniž by přišel do kontaktu se samotným virem. Pokud vás to napadlo, tak jste vynalezli mRNA vakcínu \(1990\). Gratuluji. Instrukce jsou:
 
@@ -103,7 +103,7 @@ V okamžiku, kdy se objeví nový virus, tak:
 7. Buňkám se na povrchu objeví zásuvka \(antigen\) od SARS CoV-2 - spike protein.
 8. Imunitní systém se naučí, jak antigen vypadá a tyto buňky s ním zničí.
 
-#### AstraZeneca \(oxfordská vakcína\)
+### AstraZeneca \(oxfordská vakcína\)
 
 Váš další nápad může být, že vezmete nějaký existující vir. Z jeho instrukcí \(RNA\) odstraníte nevhodné vlastnosti \(schopnost se nekontrolovaně šířit a podobně\) a naopak tam přidáte instrukce pro výrobu antigenu pro nový virus. Pokud vás to napadlo, tak jste vynalezli vektorové vakcíny. Postup je následující:
 
@@ -121,15 +121,15 @@ V okamžiku, kdy se objeví nový virus, tak:
 4. V těle člověka budou viry, které nejsou nebezpečné, ale mají antigen nového viru.
 5. Imunitní systém se naučí, jak antigen vypadá a viry s ním zničí.
 
-### Zpátky k mýdlu
+## Zpátky k mýdlu
 
 Bez teorie je velmi těžké přijít na to, jak upravit postup, aby bylo mýdlo vhodné na citlivou pokožku, aby dělalo barvy zářivější a bílou bělejší. Náhodnými změnami se vám může podařit dosáhnout požadovaného efektu, stejně tak jaké zázračného čističe z [Císařova pekaře](https://www.youtube.com/watch?v=JC-VkFkKE8c).
 
-#### Jak funguje mýdlo
+### Jak funguje mýdlo
 
 V mýdle jsou uhlíkaté řetězce, kde jeden konec se rád spojuje s tukem, zatímco druhý s vodou. Když se mýdlo dostane k tuku, tak se tukomilné konce spojí s tukem, a vodomilné konce čouhají ven. Když je tuk takto obalený, tak se dá snadno spláchnout vodou. Bakterie i viry mají také tukový obal, proto mýdlo pomáhá i s jejich odstraňováním.
 
-#### Jak zrychlit vývoj mýdla
+### Jak zrychlit vývoj mýdla
 
 Pro zrychlení vývoje mýdla je dobré jeho výrobu rozdělit do několika kroků. První najdeme a otestujeme látku, která je dobrá v obalování tuků. Takových látek najdeme několik s různými výhodami a nevýhodami.
 
@@ -137,7 +137,7 @@ V dalším kroku můžeme využít náš osvědčený základ a přidávat dalš
 
 Nikoho dnes při sledování reklamy na prací prášek, šampón nebo mýdlo nenapadne, že je to podezřele rychle vyvinute, protože vylepšit mýdlo trvalo stovky roků. Stejně tak nemáme obavy, že nám nové mýdlo nebo šampón způsobí zranění.
 
-#### Zpátky k vakcíně
+### Zpátky k vakcíně
 
 Určitě jste si všimli, že všechny tři moderní vakcíny mají velmi dobrou vlastnost. Skládají se ze dvou částí. První je univerzální \(obal na RNA nebo upravený virus\), který můžeme vylepšovat a testovat samostatně.
 
@@ -145,13 +145,13 @@ Druhou částí jsou instrukce pro specifický antigen nového viru. Díky rozš
 
 Takže když Čína zveřejnila 10. ledna 2010 RNA nového viru, tak už 11. ledna BioNTech navrhnul 10 různých kandidátů na vakcínu proti SARS CoV-2 a jeden z nich je nyní schválená a dostupný pod názvem Comirnaty.
 
-### Závěr
+## Závěr
 
 Jestli nám nějaké technologie nahání strach nebo ji považujeme za neškodnou, závisí na našem způsobu, jak o ní přemýšlíme. Pokud budeme o mýdle přemýšlet jako o chemickém svinstvu rozpuštěném v tuku, tak dává smysl raději žít ve špíně. Pokud známe princip fungování mýdla, tak ho můžeme spokojeně používat. Pokud o něm nebudeme vědět nic, tak můžeme jenom slepě někomu věřit.
 
-### Poznámky
+## Poznámky
 
-#### Poznámka 1
+### Poznámka 1
 
 Instrukce pro přistání člověka na Marsu by vypadaly takto:
 
@@ -163,11 +163,11 @@ Instrukce pro přistání člověka na Marsu by vypadaly takto:
 
 I když postup na přistání na Marsu má jenom 5 kroků, kroky 1, 2 a 5 jsou jednoduché, tak vymyslet způsob, jak zrealizovat všech 5 dohromady není snadné. Úplně stejný postup platí také pří cestě do práce \(kontejner je autobus, tramvaj nebo auto\), stejně jako při cestě k planetě v jiné sluneční soustavě.
 
-#### Poznámka 2
+### Poznámka 2
 
 Zpátky k Popelce. Pokud by Popelka sypala popel do kotle, tak by téměř nikdo nevěděl, jaký to má smysl. Na druhou stranu Popelka by nikdy nevybírala zrní z popela a ani by ji to nikdo nedal za úkol. Síto je starověká technologie, které byla vynalezena k separaci zrní od hlíny a k třídení zrní podle kvality. Takže Popelka by vzala jedno z mnoha sít, co na statku bylo, a za minutu by mohla jít na ples.
 
-#### Poznámka 3
+### Poznámka 3
 
 Vakcínu od BioNTechu si můžete dokonce vyrobit doma!!! Postup je následující:
 
@@ -178,7 +178,7 @@ Vakcínu od BioNTechu si můžete dokonce vyrobit doma!!! Postup je následujíc
 
 Výhodou je, že přesně budete vědět, co v té vakcíně máte. Žádné náhražky, chemii nebo čipy.
 
-### Odkazy
+## Odkazy
 
 * Mýdlo - [https://cs.wikipedia.org/wiki/M%C3%BDdlo](https://cs.wikipedia.org/wiki/M%C3%BDdlo)
 * Klub rváčů - [https://www.youtube.com/watch?v=zvtUrjfnSnA](https://www.youtube.com/watch?v=zvtUrjfnSnA)
