@@ -1,6 +1,6 @@
 # Imunizace teorie
 
-Tradiční příklad je následující: Mám teorii - "Všechny labutě jsou bílé". Dozvím se, že někdo pozoroval černou labuť. A teď mám 2 možnosti: 
+Tradiční příklad je následující: Mám teorii - "Všechny labutě jsou bílé". Dozvím se, že někdo pozoroval černou labuť. A teď mám 2 možnosti:
 
 1. Změním svoji teorii, protože existují i černé labutě. Takže moje nová teorie bude - "Labutě jsou převážně bílé, ale existují i černé". Pokud to udělám, tak se můžu ptát na celou řadu otázek - Proč jsou černé? Kde se vyskytují? Jsou místa, kde jsou hlavně černé labutě? Liší se bílé a černé labutě i něčím jiným než barvou? Existují labutě ještě jinak zbarvené? Díky takovým otázkám je možné získat lepší pochopení světa. 
 2. Zachovám si svoji teorii, že všechy labutě jsou bílé. O tom černém zvířeti budu tvrdit, že to není labuť, ale úplně nový druh ptáka, který by se mohl jmenovat labůk. Takže můj svět je pořád stejný a nemusím nic měnit.

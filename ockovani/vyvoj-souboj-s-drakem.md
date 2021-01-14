@@ -40,14 +40,14 @@ Chvíli po tom, co král oznámil svoji soutěž, tak se k němu na hrad dostav�
 
 Z prvních výsledků vidíme, že lektvary mají i vedlejší účinek, že občas dobrovolníka přemění na ropuchu. Na první pohled to vypadá, že tým A má perfektní lektvar \(všichni dobrovolníci našli kartu a žádný se neproměnil v ropuchu\), tým B má o trochu horší výsledky, zatímco C má nejhorší výsledky.
 
-Naštěstí se král zajímal o matematiku, tak na svůj první dojem nedá a rozhodne se použít [vědeckou metodu](https://cs.wikipedia.org/wiki/V%C4%9Bdeck%C3%A1_metoda) a 
+Naštěstí se král zajímal o matematiku, tak na svůj první dojem nedá a rozhodne se použít [vědeckou metodu](https://cs.wikipedia.org/wiki/V%C4%9Bdeck%C3%A1_metoda) a
 
 Proto než král určí výherce, tak si ověří 2 věci:
 
 1. Je ten lektvar bezpečný?
 2. Skutečně ten lektvar funguje?
 
-TODO: 
+TODO:
 
 * 4x hlava ze 4 hodu - nemuzeme vyvrátit hypotezu, ze je mince ferova, ale uz to vypada, ze by byt nemusela. Stejne tak 11/30 - neni statisticky signifikantni. 
 * graf/simulaci, kdy můžeme vyvrátit nulovou hypotezu. 
@@ -56,9 +56,9 @@ TODO:
 
 ### Rychlé získání výsledků
 
-Pokud je možné získat výsledky rychle, tak to také urychlí vývoj. 
+Pokud je možné získat výsledky rychle, tak to také urychlí vývoj.
 
-První tým, vyvijí lektvar štěstí  - namíchá lektvar, dá ho dobrobolníkovi, nechá ho vytáhnout kartu - za 1 minutu vím výsledek. Poupraví lektvar, dá ho dobrovolníkovi, nechá ho vytáhnout kartu - za 1 minutu výsledek.
+První tým, vyvijí lektvar štěstí - namíchá lektvar, dá ho dobrobolníkovi, nechá ho vytáhnout kartu - za 1 minutu vím výsledek. Poupraví lektvar, dá ho dobrovolníkovi, nechá ho vytáhnout kartu - za 1 minutu výsledek.
 
 Druhý tým, vyvíjí hnojivo. Když se s ním na jaře pohnojí švestka, tak když se z toho stromu posbírájí švestky, vypálí slivovice - tak tento nápoj bude dávat štěstí.
 
@@ -71,14 +71,6 @@ Samotný časový o době vývoje nám nic neřekne o tom, jak bude výsledek kv
 Pokud budete chtít vyvinout vakcínu pro vzteklině, tak část lidí naočkujete vakcínou a část placebem. Žádná etická komise vám nedovolí lidi cíleně nakazit, a nejspíše ani žádný dobrovolník nebude cíleně vyhledávat vzteklé psy. Jedinou věc, co můžete dělat je roky čekat, než dostatečný počet lidí s placebem bude pokousáno a vyvine se u nich vzteklina. Pak můžete začít ověřovat, že očkovaní lidé mají mezi sebou menší počet nakažených vzteklinou.
 
 Při vývoji vakcíny proti SARS-CoV-2 máte výhodu. Zatímco nikdo nechce být se vzteklými psy, tak naopak lidé chtějí být pohromadě s dalšími lidmi. Díky tomu, že je nakaženo hodně lidí, a že se snadno šíří, tak vám může trvat jenom pár měsíců, než vám v kontrolní skupině onemocní dostatečný počet lidí. Díky tomu budete moci svůj experiment brzy ukončit a vyhodnotit.
-
-
-
-
-
-
-
-
 
 [https://colab.research.google.com/drive/1YjOP0Q6EtLlLcN5\_8FTit4LLppoICO0v?usp=sharing](https://colab.research.google.com/drive/1YjOP0Q6EtLlLcN5_8FTit4LLppoICO0v?usp=sharing)
 
