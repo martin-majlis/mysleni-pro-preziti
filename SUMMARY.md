@@ -11,6 +11,7 @@
 * [Předpovídání](premysleni/predpovidani.md)
 * [Matice záměn](premysleni/matice-zamen.md)
 * [Imunizace teorie](premysleni/imunizace-teorie.md)
+* [Nebezpečné technologie](premysleni/nebezpecne-technologie.md)
 
 ## Koronavirus
 
@@ -19,5 +20,5 @@
 ## Očkování
 
 * [Vývoj - Souboj s drakem](ockovani/vyvoj-souboj-s-drakem.md)
-* [Princip - Mýdlo vs Vakcína](ockovani/princip-mydlo-vs-rna-vakcina.md)
+* [Princip - Mýdlo vs Vakcína](ockovani/princip-mydlo-vs-vakcina.md)
 
