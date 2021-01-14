@@ -11,6 +11,7 @@
 * [Předpovídání](premysleni/predpovidani.md)
 * [Matice záměn](premysleni/matice-zamen.md)
 * [Imunizace teorie](premysleni/imunizace-teorie.md)
+* [Nebezpečné technologie](premysleni/nebezpecne-technologie.md)
 
 ## Koronavirus
 
