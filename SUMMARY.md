@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Úvod](README.md)
 
 ## Přemýšlení
 
@@ -21,4 +21,8 @@
 
 * [Vývoj - Souboj s drakem](ockovani/vyvoj-souboj-s-drakem.md)
 * [Princip - Mýdlo vs Vakcína](ockovani/princip-mydlo-vs-vakcina.md)
+
+## Různé
+
+* [Plánování](ruzne/planovani.md)
 
