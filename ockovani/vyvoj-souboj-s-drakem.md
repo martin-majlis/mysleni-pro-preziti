@@ -10,7 +10,7 @@ Králi se povede také vyjednat, že než se zkouška uskuteční, tak budou dra
 
 Král chce nad drakem vyhrát a proto oznámí, že ten, kdo mu připraví zázračný lektvar, který dá lidem schopnost najít kartu v balíčku získá půl království.
 
-### Hodně týmů
+## Hodně týmů
 
 Prestiž, sláva a odměna za nalezení takového lektvaru naláká velké množství alchymistických týmů, které se pustí do vývoje lektvaru.
 
@@ -54,7 +54,7 @@ TODO:
 * [https://www.wolframalpha.com/widgets/view.jsp?id=d821210668c6cc5a02db1069cc52464f](https://www.wolframalpha.com/widgets/view.jsp?id=d821210668c6cc5a02db1069cc52464f)
 * 4x hlava ze 4 hodu - nemuzeme vyvrátit hypotezu, ze je mince ferova
 
-### Rychlé získání výsledků
+## Rychlé získání výsledků
 
 Pokud je možné získat výsledky rychle, tak to také urychlí vývoj.
 
@@ -72,5 +72,8 @@ Pokud budete chtít vyvinout vakcínu pro vzteklině, tak část lidí naočkuje
 
 Při vývoji vakcíny proti SARS-CoV-2 máte výhodu. Zatímco nikdo nechce být se vzteklými psy, tak naopak lidé chtějí být pohromadě s dalšími lidmi. Díky tomu, že je nakaženo hodně lidí, a že se snadno šíří, tak vám může trvat jenom pár měsíců, než vám v kontrolní skupině onemocní dostatečný počet lidí. Díky tomu budete moci svůj experiment brzy ukončit a vyhodnotit.
 
-[https://colab.research.google.com/drive/1YjOP0Q6EtLlLcN5\_8FTit4LLppoICO0v?usp=sharing](https://colab.research.google.com/drive/1YjOP0Q6EtLlLcN5_8FTit4LLppoICO0v?usp=sharing)
+## Lepší technologie
+
+## Odkazy
+* [https://colab.research.google.com/drive/1YjOP0Q6EtLlLcN5\_8FTit4LLppoICO0v?usp=sharing](https://colab.research.google.com/drive/1YjOP0Q6EtLlLcN5_8FTit4LLppoICO0v?usp=sharing)
 
