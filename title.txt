@@ -1,0 +1,6 @@
+---
+title: Myšlení pro život
+author: Martin Majliš
+rights: Nah
+language: cs-CZ
+---
