@@ -16,13 +16,13 @@ Virus [SARS-CoV-2](https://cs.wikipedia.org/wiki/SARS-CoV-2) \(původní prozati
 
 [Ebola](https://cs.wikipedia.org/wiki/Ebola) je virové onemocnění ze skupiny krvácivých horeček se smrtností 50-90%. Poslední [epidemie Eboly](https://cs.wikipedia.org/wiki/Epidemie_eboly_v_z%C3%A1padn%C3%AD_Africe) proběhla v Africe mezi roky 2013 až 2016. Z 28000 nakažených jich 11000 zemřelo. Smrtnost tedy byla okolo 40%.
 
-[Zika](https://cs.wikipedia.org/wiki/Zika_virus) je virus, který způsobuje horečku Zika. Představuje vysoké riziko pro těhotné ženy, jejimž dětem může způsobit těžkou vývojovou poruchu [mikrocefalii](https://cs.wikipedia.org/wiki/Mikrocefalie), která se projevuje předčasným ukončením růstu mozku. Poslední epiedemie byla mezi léty [2015 až 2016](https://en.wikipedia.org/wiki/2015%E2%80%932016_Zika_virus_epidemic), kdy WHO vyhlásila globální stav nouze.
+[Zika](https://cs.wikipedia.org/wiki/Zika_virus) je virus, který způsobuje horečku Zika. Představuje vysoké riziko pro těhotné ženy, jejímž dětem může způsobit těžkou vývojovou poruchu [mikrocefalii](https://cs.wikipedia.org/wiki/Mikrocefalie), která se projevuje předčasným ukončením růstu mozku. Poslední epidemie byla mezi léty [2015 až 2016](https://en.wikipedia.org/wiki/2015%E2%80%932016_Zika_virus_epidemic), kdy WHO vyhlásila globální stav nouze.
 
 ## Připravenost na boj s epidemii
 
-Z historických dat MERS 2012, Ebola 2013-2016, Zika 2015-2016 je vidět, že epidemie nemocí se vyskytují, a že s narůstající propojeností se také zvyšuje šance, že se takové onemocnění rozšírí po světe.
+Z historických dat MERS 2012, Ebola 2013-2016, Zika 2015-2016 je vidět, že epidemie nemocí se vyskytují, a že s narůstající propojeností se také zvyšuje šance, že se takové onemocnění rozšíří po světe.
 
-Proto WHO v roce 2019 vypracovala [Global Health Security Index](https://www.ghsindex.org/) pro 195 zemí, kde na základě 140 otázek ohodnotila, jak je která země připravená na zvládnutí globální pandemi. Článek o studii vyšel na [iDnesu](https://www.idnes.cz/zpravy/zahranicni/pripravenost-na-pandemie-zebricek-statu-nuclear-threat-initiative-ebola-chripka-antrax.A191025_123315_zahranicni_kha), detailní výsledky jsou přímo na stránkách [indexu](https://www.ghsindex.org/country/czech-republic/).
+Proto WHO v roce 2019 vypracovala [Global Health Security Index](https://www.ghsindex.org/) pro 195 zemí, kde na základě 140 otázek ohodnotila, jak je která země připravená na zvládnutí globální pandemii. Článek o studii vyšel na [iDnesu](https://www.idnes.cz/zpravy/zahranicni/pripravenost-na-pandemie-zebricek-statu-nuclear-threat-initiative-ebola-chripka-antrax.A191025_123315_zahranicni_kha), detailní výsledky jsou přímo na stránkách [indexu](https://www.ghsindex.org/country/czech-republic/).
 
 ![](../.gitbook/assets/who-ghsi-czech-republic.png)
 
