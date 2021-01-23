@@ -8,6 +8,7 @@
 ## Shrnutí
 
 * [Comirnaty přehledně od SÚKL](https://www.sukl.cz/sukl/comirnaty-prehledne-dulezita-fakta-o-prvni-podminecne)
+* [Proč byl registrován v EU](https://www.ema.europa.eu/en/documents/overview/comirnaty-epar-medicine-overview_cs.pdf)
 * [Informace o přípravku](https://ec.europa.eu/health/documents/community-register/2020/20201221150522/anx_150522_cs.pdf)
 
 ## Výsledky
@@ -59,6 +60,8 @@ Celkový počet participantů ve fázi 2/3 byl 43,448, 94,2% lidí s vakcínou a
 * 21. prosinec 2020 - EC Schvaluje
   * [https://ec.europa.eu/commission/presscorner/detail/en/ip\_20\_2466](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2466)
   * Detailní informace v Češtině - [https://ec.europa.eu/health/documents/community-register/2020/20201221150522/anx\_150522\_cs.pdf](https://ec.europa.eu/health/documents/community-register/2020/20201221150522/anx_150522_cs.pdf)
+  * Evropská léková agentura \(EMA\) - [https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty](https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty)
+  * EMA v češtině - [https://www.ema.europa.eu/en/documents/overview/comirnaty-epar-medicine-overview\_cs.pdf](https://www.ema.europa.eu/en/documents/overview/comirnaty-epar-medicine-overview_cs.pdf)
 * 21. prosinec 2020 - Státní ústav pro kontrolu léčiv informuje o schválení
   * Comirnaty přehledně: Důležitá fakta o první podmínečně registrované vakcíně proti COVID-19 v EU - [https://www.sukl.cz/sukl/comirnaty-prehledne-dulezita-fakta-o-prvni-podminecne](https://www.sukl.cz/sukl/comirnaty-prehledne-dulezita-fakta-o-prvni-podminecne)
   * Comirnaty přehledně: Důležitá fakta o první podmínečně registrované vakcíně proti COVID-19 v EU - [https://www.sukl.cz/sukl/evropska-agentura-pro-lecive-pripravky-doporucila-udelit-1](https://www.sukl.cz/sukl/evropska-agentura-pro-lecive-pripravky-doporucila-udelit-1)
