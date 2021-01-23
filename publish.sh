@@ -23,7 +23,7 @@ find . -type f -exec sed -ri 's/martin-majlis.gitbook.io/mysleniprozivot.cz/g' {
 
 cd ${MIRROR_DIR}/martin-majlis.gitbook.io/mysleni-pro-zivot;
 
-rsync -avz . root@67.205.142.190:/var/www/mysleniprozivot.cz/www
+rsync -e ssh -avz . root@67.205.142.190:/var/www/mysleniprozivot.cz/www
 
 # rm -rf ${MIRROR_DIR} ${TMP_DIR};
 
