@@ -29,9 +29,9 @@ Celkový počet participantů ve fázi 2/3 byl 43,448, 94,2% lidí s vakcínou a
 | Pohlaví - Muž | 3 / 8.875 | 81 / 8.762 | 96,4 \(88,9 - 99,3\) |
 | Pohlaví - Žena | 5 / 8.536 | 81 / 8.749 | 93,7 \(84,7 - 98,0\) |
 | Komorbidita - Bez | 4 / 9.381 | 76 / 9842 | 94,7 \(85,9 - 98,6\) |
-| Komobrbodita - Ano | 4 / 8.030 | 86 / 8.029 | 95,3 \(87,7 - 98,8\) |
-| Komorbidity - Rakovina | 1 / 704 | 4 / 681 | 75,7 \(-145,8 -  99,5\) |
-| Komorbidita - Kardiovackulární | 0 / 534 | 5 / 492 | 100,0 \(-0,8 - 100.0\) |
+| Komorbidita - Ano | 4 / 8.030 | 86 / 8.029 | 95,3 \(87,7 - 98,8\) |
+| Komorbidita - Rakovina | 1 / 704 | 4 / 681 | 75,7 \(-145,8 -  99,5\) |
+| Komorbidita - Kardiovaskulární | 0 / 534 | 5 / 492 | 100,0 \(-0,8 - 100.0\) |
 | Komorbidita - Chronická plicní nemoc | 1 / 1.374 | 14 / 1.358 | 93,0 \(54,1 - 99,8\) |
 | Komorbidita - Diabetes | 1 / 1.372 | 19 / 1.374 | 94,7 \(66,8 - 99,9\) |
 | Komorbidita - Obezita \(BMI ≥ 30\) | 3 / 6.000 | 67 / 6.103 | 95,4 \(86,0 - 99,1\) |
@@ -39,13 +39,13 @@ Celkový počet participantů ve fázi 2/3 byl 43,448, 94,2% lidí s vakcínou a
 
 ### Onemocnění v čase
 
-![Kumulativn&#xED; incidence od pod&#xE1;n&#xED; prvn&#xED; d&#xE1;vky](../.gitbook/assets/pfizer-vaccine-efficiancy.png)
+![Kumulativní incidence od podání první dávky](../.gitbook/assets/pfizer-vaccine-efficiancy.png)
 
 ## Časová posloupnost
 
 * 30. duben 2020 - začátek klinické studie
   * NCT04368728 - [https://clinicaltrials.gov/ct2/show/NCT04368728](https://clinicaltrials.gov/ct2/show/NCT04368728)
-  * Prokol ke klinické studii - [https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-09/C4591001\_Clinical\_Protocol.pdf](https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-09/C4591001_Clinical_Protocol.pdf)
+  * Protokol ke klinické studii - [https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-09/C4591001\_Clinical\_Protocol.pdf](https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-09/C4591001_Clinical_Protocol.pdf)
 * 18. listopad 2020 - oznámení výsledků 3. fáze klinického testování
   * [https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine)
 * 20. listopad 2020 - podali žádost FDA pro schválení

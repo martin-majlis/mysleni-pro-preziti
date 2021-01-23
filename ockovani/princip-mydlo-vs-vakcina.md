@@ -1,6 +1,6 @@
 # Princip - Mýdlo vs Vakcína \(ELI5\)
 
-Při sledování Popelky jsem si uvědomil, že se asi nezašpinila od popela během vybírání zrní, ale nejspíše ho používala k čištění mastného nádobí nebo k výrobě mýdla, aby mohla prát. Potom mi to došlo. Skoro nikdo by nevěděl, co to Popelka dělá, protože jsme na mýdlo zvyklí z obchodu.
+Při sledování Popelky jsem si uvědomil, že se asi nezašpinila od popela během vybírání zrní. Nejspíše ho používala přímo k čištění mastného nádobí nebo k výrobě mýdla. Potom mi to došlo. Skoro nikdo by nevěděl, proč Popelka sype popel do vody, protože jsme na mýdlo zvyklí z obchodu.
 
 ## Mýdlo
 
@@ -8,9 +8,9 @@ Při sledování Popelky jsem si uvědomil, že se asi nezašpinila od popela b�
 
 1. Vyrobte [potaš](https://cs.wikipedia.org/wiki/Uhli%C4%8Ditan_draseln%C3%BD#Historick%C3%A9_postupy_z%C3%ADsk%C3%A1v%C3%A1n%C3%AD_pota%C5%A1e).
    1. Získejte popel ze spáleného dřeva. Buď dřevo palte jenom tak nebo použijte popel, který vznikne při jiných činnostech.
-   2. Popel z dřeva nasypejte do kotle a zalijte ho vodou. 
+   2. Popel z dřeva nasypejte do kotle a zalijte ho vodou.
    3. Odfiltrujte pevné části.
-   4. Topte pod kotlem, aby se voda vyvařila. To, co zůstane na dně, je potaš. 
+   4. Topte pod kotlem, aby se voda vyvařila. To, co zůstane na dně, je potaš.
    5. Z 1kg dřeva získáte 1g potaše.
 2. Vyrobte násadu.
    1. Získejte masové odřezky/tuk, který se nedá nijak jinak zpracovat.
@@ -25,19 +25,19 @@ Při sledování Popelky jsem si uvědomil, že se asi nezašpinila od popela b�
 
 ### Historie
 
-Již staří Sumerové \(2600 př. n. l.\) vyráběli a používali mýdlo. Odtud se technologie výroby mýdla dostala přes Babylon, Mezopotámii, Egypt do Řecka a později do Říma. Ve 2. století n. l. římský lékař Galén upozornil na výhodý mýdla při osobní hygieně. Ve 14. století se výroba mýdla rošířila z Itálie a Francie dále do Evropy. V 15. století vznikl v Praze cech mydlářů. Mýdlo se hlavně používalo k praní.
+Již staří Sumerové \(2600 př. n. l.\) vyráběli a používali mýdlo. Odtud se technologie výroby mýdla dostala přes Babylon, Mezopotámii, Egypt do Řecka a později i do Říma. Ve 2. století n. l. římský lékař Galén upozornil na výhody mýdla při osobní hygieně. Ve 14. století se výroba mýdla rozšířila z Itálie a Francie dále do Evropy. V 15. století vznikl v Praze cech mydlářů. Mýdlo se v té době používalo hlavně k praní.
 
 Ještě na začátku 18. století bylo mýdlo považováno za škodlivé pro lidský organismus. To je 4300 roků od jeho vynálezu. Také je to 1000 roků od okamžiku, kdy se doporučovalo ho používat k hygieně. Pokud jste viděli Klub Rváčů \(Fight Club\), tak tam je přímo scéna, kdy [Tyler posype Jackovi ruku](https://www.youtube.com/watch?v=zvtUrjfnSnA) moderní náhradou potaše a ten mu do ní vypálí díru.
 
-Používali byste něco, co vznikne smícháním tuku s látkou, co vám vypálí díru do ruky \(a získali jste ji z popela\) k mytí rukou? Mysleli byste si, že je to prospěsné pro Vaše zdraví?
+Používali byste něco, co vznikne smícháním tuku s látkou, co vám vypálí díru do ruky \(a získali jste ji z popela\) k mytí rukou? Mysleli byste si, že je to prospěšná pro Vaše zdraví?
 
 ## Vakcína
 
-Když Evropané dorazili do Ameriky, tak s sebou přinesli Evropské nemoci, na které nebyl imunitní systém původních obyvatel zvyklý. V prvních 100 letech od objevení zemřelo na nemoci 90% populace. Velké morové epidemi v Evropě zabily 25% veškeré populace. Epidemie pravých neštovic, černého kašle, příušnic a dalších nemocí pravidelně zabíjely velké množství obyvatel.
+Když Evropané dorazili do Ameriky, tak s sebou přinesli Evropské nemoci, na které nebyl imunitní systém původních obyvatel zvyklý. V prvních 100 letech od objevení zemřelo na nemoci 90% populace. Velké morové epidemie v Evropě zabily 25% veškeré populace. Epidemie pravých neštovic, černého kašle, příušnic a dalších nemocí také pravidelně zabíjely velké množství obyvatel.
 
 Když v krátké době zemře velké množství lidí, tak i pokud jste měli štěstí, a přežili jste, tak váš život nebude snadný. Velké množství lidí, na kterých jste byli závislí - kupovali jste od nich jídlo/oblečení, opravovali vám věci, případně jste jim prodávali svoje výrobky - najednou chybí.
 
-Pokud chcete, aby lidí umíralo méně, tak se spolu pokusíme vynalézt vakcínu. Abychom si to usnadnili, tak budeme trochu podvádět - seznámíme se se základy, takže nebudeme zkoušet věci, co ani nemůžou fungovat.
+Pokud chcete, aby lidí umíralo méně, tak se spolu pokusíme vynalézt vakcínu. Abychom si to usnadnili, tak budeme trochu podvádět. Seznámíme se se základy, takže nebudeme zkoušet věci, co ani nemůžou fungovat.
 
 ### Základy
 
@@ -45,7 +45,7 @@ Pokud chcete, aby lidí umíralo méně, tak se spolu pokusíme vynalézt vakcí
    1. Buňka má v jádru DNA.
    2. DNA je sbírka instrukcí, jak vyrábět různé součástky \(a tím pádem i celou buňku\).
    3. Buňka má na povrchu různé zásuvky \([receptory](https://cs.wikipedia.org/wiki/Receptor)\), aby dokázala přijímat užitečné věci z okolí.
-   4. Pokud je potřeba něco vyrobit, tak se odpovidající instrukce [přepíše](https://cs.wikipedia.org/wiki/Transkripce_%28DNA%29) z DNA do RNA.
+   4. Pokud je potřeba něco vyrobit, tak se odpovídající instrukce [přepíše](https://cs.wikipedia.org/wiki/Transkripce_%28DNA%29) z DNA do RNA.
    5. Podle instrukcí zapsaných v RNA proběhne [výroba](https://cs.wikipedia.org/wiki/Translace_%28biologie%29) součástky.
 2. Jak funguje koronavirus:
    1. [Vir](https://cs.wikipedia.org/wiki/Virus) je RNA obalená v tuku.
@@ -64,25 +64,25 @@ Pokud chcete, aby lidí umíralo méně, tak se spolu pokusíme vynalézt vakcí
    4. Pokud neví, tak se pokusí naučit, jak vyrábět miny s odpovídající zásuvkou. Toto trvá několik dní až týdnů.
    5. Jakmile ví, jak vyrábět miny s odpovídající zásuvkou, tak je začne vyrábět.
    6. Pokud se vir zachytí do zásuvky od miny, tak ho mina zničí.
-   7. Poznámka: Kroky 3.1 až 3.6 umí jenom obratlovci a jedná se o adaptivní mechanismus. Všechny organismy mají také vrozený mechanismus, který dokáže rozponávat a ničit na základě hrubých rysů. Z úvodu víme, že vrozený mechanismus příliš nefunguje proti novým nemocem.
+   7. Poznámka: Kroky 3.1 až 3.6 umí jenom obratlovci a jedná se o adaptivní mechanismus. Všechny organismy mají také vrozený mechanismus, který dokáže rozpoznávat a ničit na základě hrubých rysů. Z úvodu víme, že vrozený mechanismus příliš nefunguje proti novým nemocem.
 4. Jak funguje střetnutí s virem
    1. Vir se dostane do těla.
    2. Imunitní systém se snaží zjistit zástrčku od viru \(3.4\).
-   3. Pokud vir narazí do více buňek \(2.5\) než do min \(3.6\), tak vyhraje vir. V opačném případě vyhraje organismus.
+   3. Pokud vir narazí do více buněk \(2.5\) než do min \(3.6\), tak vyhraje vir. V opačném případě vyhraje organismus.
 
 ### Jak zajistit, aby organismus vyhrál
 
-Ze základů plyne, že pokud má mít člověk větší šanci na výhru při skutečném střetnutí s virem, tak je dobré, aby jeho imunitní systém znal zástrčky \(antigenty\). Díky tomu bude moci začít produkovat miny \(protilátky\) o několik dní dříve.
+Ze základů plyne, že pokud má mít člověk větší šanci na výhru při skutečném střetnutí s virem, tak je dobré, aby jeho imunitní systém znal zástrčky \(antigeny\). Díky tomu bude moci začít produkovat miny \(protilátky\) o několik dní dříve.
 
 Když znáte základy, tak určitě máte několik nápadů, jak byste se mohli o něco takové pokusit.
 
-Nejjednodušší nápad je nakazit daného člověka v okamžiku, kdy bude v dobré kondici, a kdy budete se moci o něho postarat. Pravé neštovice měly smrtnost 30% a také vedly k permanentnímu znetvoření. V Číně v 10. stol. \(někde se uvádí 2. stol. př. n. l.\), lidé vdechovali usušené nečtovičné strupy. V Turecku používali v 17. století přímo hnis. Tomu se říká variolizace. Během variolizace byl člověk nakažlivý \(není dobré pro pečující\), tak také měl několika procentní šanci, že zemře.
+Nejjednodušší nápad je nakazit daného člověka v okamžiku, kdy bude v dobré kondici, a kdy budete se moci o něho postarat. Pravé neštovice měly smrtnost 30% a také vedly k permanentnímu znetvoření. V Číně v 10. stol. \(někde se uvádí 2. stol. př. n. l.\), lidé vdechovali usušené neštovičné strupy. V Turecku používali v 17. století přímo hnis. Tomu se říká variolizace. Během variolizace byl člověk nakažlivý \(není dobré pro pečující\), tak také měl několika procentní šanci, že zemře.
 
-Variolizace je určité zlepšení, ale určitě máte i nějaký lepší nápad. Pokud vás napadlo, že byste mohli použít podobnou nemoc, která se vyskytuje u jiného zvířete, tak jste právě objevili první [vakcínu](https://cs.wikipedia.org/wiki/Vakc%C3%ADna), stejně jako Edward Jennera \(1796\), který naočkoval hnis z vřídků kravských neštovic Jamesi Philippsovi \(za 6 týdnů se uzdravil\) a následně ověřil, že se nenakazí pravými neštovicemi. Slovo vakcína je od latinského vacca, což znamená kráva.
+Variolizace je určité zlepšení, ale určitě máte i nějaký lepší nápad. Pokud vás napadlo, že byste mohli použít podobnou nemoc, která se vyskytuje u jiného zvířete, tak jste právě objevili první [vakcínu](https://cs.wikipedia.org/wiki/Vakc%C3%ADna), stejně jako Edward Jennera \(1796\). Jenner naočkoval hnis z vřídků kravských neštovic Jamesi Philippsovi \(za 6 týdnů se uzdravil\) a následně ověřil, že se nenakazí pravými neštovicemi. Slovo vakcína je od latinského vacca, což znamená kráva.
 
-Pokud chcete použít své znalosti z genetiky, tak váš další nápad může být, že se pokusíte RNA viru nějak náhodně pozměnit. Když budete mít štěstí, tak se poškodí instrukce, které vir potřebuje k šíření, ale instrukce na výrobu antigenu \(zástrčky\) zůstanou nezměnené. Pokud štěstí mít nebudete, tak vám vznikne stále funkční vir \(takže lidé onemocní\), nebo vir s poškozeným antigenem \(takže se jim nevytvoří imunita\). S pokrokem v technologiích získáte možnost lépe mířit, kde se ta změna stane. Pokud vás toto napadlo, tak jste právě vymysleli atenuovanou \(oslabenou\) vakcínu, která se v současné době často používá. Nevýhoda tohoto postupu je, že po každé změne musíte vyzkoušet, jaká možnost nastala.
+Pokud chcete použít své znalosti z genetiky, tak váš další nápad může být, že se pokusíte RNA viru nějak náhodně pozměnit. Když budete mít štěstí, tak se poškodí instrukce, které vir potřebuje k šíření, ale instrukce na výrobu antigenu \(zástrčky\) zůstanou nezměněné. Pokud štěstí mít nebudete, tak vám vznikne stále funkční vir \(takže lidé onemocní\), nebo vir s poškozeným antigenem \(takže se jim nevytvoří imunita\). S pokrokem v technologiích získáte možnost lépe mířit, kde se ta změna stane. Pokud vás toto napadlo, tak jste právě vymysleli atenuovanou \(oslabenou\) vakcínu, která se v současné době často používá. Nevýhoda tohoto postupu je, že po každé změně musíte vyzkoušet, jaká možnost nastala.
 
-Ve 21. století již nemusíte "naslepo" měnit vir. Pokročilé technologie vám umožní rozpoznat antigen, také vám umožní získat instrukce potřebné k jeho výrobě, a následně tyto instrukce přímo vyrábět. Takovéto technologie vám pomůžou s následujícímí nápady:
+Ve 21. století již nemusíte "naslepo" měnit vir. Pokročilé technologie vám umožní rozpoznat antigen, také vám umožní získat instrukce potřebné k jeho výrobě, a následně tyto instrukce přímo vyrábět. Takovéto technologie vám pomůžou s následujícími nápady:
 
 ### BioNTech/Pfizer a Moderna
 
@@ -94,7 +94,7 @@ Může vás napadnout, že buňce podstrčíte instrukce pro výrobu antigenu. K
 
 V okamžiku, kdy se objeví nový virus, tak:
 
-1. Vyrobte instrukce \(mRNA\) pro výrobu zásuvky \(antigenu\) - spike proteinu
+1. Vyrobte instrukce \(mRNA\) pro výrobu zásuvky \(antigenu\) - spike proteinu.
 2. Vyrobte obaly.
 3. Instrukce dejte do obalů.
 4. Dostaňte obaly do člověka.
@@ -105,19 +105,19 @@ V okamžiku, kdy se objeví nový virus, tak:
 
 ### AstraZeneca \(oxfordská vakcína\)
 
-Váš další nápad může být, že vezmete nějaký existující vir. Z jeho instrukcí \(RNA\) odstraníte nevhodné vlastnosti \(schopnost se nekontrolovaně šířit a podobně\) a naopak tam přidáte instrukce pro výrobu antigenu pro nový virus. Pokud vás to napadlo, tak jste vynalezli vektorové vakcíny. Postup je následující:
+Váš další nápad může být, že vezmete nějaký existující vir. Z jeho instrukcí \(RNA\) odstraníte nevhodné vlastnosti \(schopnost se nekontrolovaně šířit a podobně\) a naopak tam přidáte instrukce pro výrobu antigenu pro nový virus. Pokud vás to napadlo, tak jste vynalezli vektorovou vakcínu. Postup je následující:
 
-1. Vezmi [adenovirus](https://www.wikiskripta.eu/w/Adenoviry) - oxfordská vakcína používá šimpanzí adenovirus.
-2. Přečti jeho RNA.
-3. Zjisti, která část RNA je zodpovědná za jakou funkci.
-4. Vyházej části, které nepotřebuješ.
-5. Otestuj, že tento virus lidem neškodí.
+1. Vezměte [adenovirus](https://www.wikiskripta.eu/w/Adenoviry) - oxfordská vakcína používá šimpanzí adenovirus.
+2. Přečtěte jeho RNA.
+3. Zjistěte, která část RNA je zodpovědná za jakou funkci.
+4. Vyházejte části, které nepotřebujete.
+5. Otestujte, že tento virus lidem neškodí.
 
 V okamžiku, kdy se objeví nový virus, tak:
 
-1. K instrukcím svého předpřipraveného viru přidej instrukce pro výrobu nového antigenu - spike proteinu.
-2. Vyrob viry.
-3. Dostaň viry do člověka.
+1. K instrukcím svého předpřipraveného viru přidejte instrukce pro výrobu nového antigenu - spike proteinu.
+2. Vyrobte viry.
+3. Dostaňte viry do člověka.
 4. V těle člověka budou viry, které nejsou nebezpečné, ale mají antigen nového viru.
 5. Imunitní systém se naučí, jak antigen vypadá, a viry s ním zničí.
 

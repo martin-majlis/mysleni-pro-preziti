@@ -49,8 +49,8 @@ Proto než král určí výherce, tak si ověří 2 věci:
 
 TODO:
 
-* 4x hlava ze 4 hodu - nemuzeme vyvrátit hypotezu, ze je mince ferova, ale uz to vypada, ze by byt nemusela. Stejne tak 11/30 - neni statisticky signifikantni. 
-* graf/simulaci, kdy můžeme vyvrátit nulovou hypotezu. 
+* 4x hlava ze 4 hodu - nemuzeme vyvrátit hypotezu, ze je mince ferova, ale uz to vypada, ze by byt nemusela. Stejne tak 11/30 - neni statisticky signifikantni.
+* graf/simulaci, kdy můžeme vyvrátit nulovou hypotezu.
 * [https://www.wolframalpha.com/widgets/view.jsp?id=d821210668c6cc5a02db1069cc52464f](https://www.wolframalpha.com/widgets/view.jsp?id=d821210668c6cc5a02db1069cc52464f)
 * 4x hlava ze 4 hodu - nemuzeme vyvrátit hypotezu, ze je mince ferova
 
