@@ -28,13 +28,14 @@ jobs:
       # Runs a single command using the runners shell
       - name: Fetch web
         run: bash ./publish.sh fetch
-    - name: rsync deployments
-      uses: burnett01/rsync-deployments@4.1
-      with:
-        switches: -avzr --delete
-        path: generated-web
-        remote_path: /var/www/mysleniprozivot.cz/www
-        remote_host: ${{ secrets.DEPLOY_HOST }}
-        remote_port: ${{ secrets.DEPLOY_PORT }}
-        remote_user: ${{ secrets.DEPLOY_USER }}
-        remote_key: ${{ secrets.DEPLOY_KEY }}
+
+      - name: rsync deployments
+        uses: burnett01/rsync-deployments@4.1
+        with:
+          switches: -avzr --delete
+          path: generated-web
+          remote_path: /var/www/mysleniprozivot.cz/www
+          remote_host: ${{ secrets.DEPLOY_HOST }}
+          remote_port: ${{ secrets.DEPLOY_PORT }}
+          remote_user: ${{ secrets.DEPLOY_USER }}
+          remote_key: ${{ secrets.DEPLOY_KEY }}
