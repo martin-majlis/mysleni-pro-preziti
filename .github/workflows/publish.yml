@@ -33,7 +33,7 @@ jobs:
         uses: burnett01/rsync-deployments@4.1
         with:
           switches: -avzr --delete
-          path: generated-web/martin-majlis.gitbook.io/mysleni-pro-zivot
+          path: generated-web/martin-majlis.gitbook.io/mysleni-pro-zivot/
           remote_path: /var/www/mysleniprozivot.cz/www
           remote_host: ${{ secrets.DEPLOY_HOST }}
           remote_port: ${{ secrets.DEPLOY_PORT }}
