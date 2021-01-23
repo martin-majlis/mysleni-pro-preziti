@@ -1,7 +1,7 @@
 BOOK_FILE=mysleni-pro-zivot.pdf
 
 web-publish:
-	publish.sh
+	bash publish.sh
 
 book-pdf-generate:
 	find . -name '*.md' -exec sed -ri 's/..\/.gitbook\/assets/.gitbook\/assets/g' {} \;
