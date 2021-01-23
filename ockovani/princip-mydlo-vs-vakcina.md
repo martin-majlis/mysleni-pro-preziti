@@ -1,4 +1,4 @@
-# Princip - Mýdlo vs Vakcína
+# Princip - Mýdlo vs Vakcína \(ELI5\)
 
 Při sledování Popelky jsem si uvědomil, že se asi nezašpinila od popela během vybírání zrní, ale nejspíše ho používala k čištění mastného nádobí nebo k výrobě mýdla, aby mohla prát. Potom mi to došlo. Skoro nikdo by nevěděl, co to Popelka dělá, protože jsme na mýdlo zvyklí z obchodu.
 

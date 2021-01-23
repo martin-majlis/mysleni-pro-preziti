@@ -19,8 +19,9 @@
 
 ## Očkování
 
-* [Vývoj - Souboj s drakem](ockovani/vyvoj-souboj-s-drakem.md)
-* [Princip - Mýdlo vs Vakcína](ockovani/princip-mydlo-vs-vakcina.md)
+* [Pfizer & BioNTech](ockovani/pfizer-and-biontech.md)
+* [Vývoj - Souboj s drakem \(ELI5\)](ockovani/vyvoj-souboj-s-drakem.md)
+* [Princip - Mýdlo vs Vakcína \(ELI5\)](ockovani/princip-mydlo-vs-vakcina.md)
 
 ## Různé
 

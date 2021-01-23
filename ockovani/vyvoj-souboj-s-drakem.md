@@ -1,4 +1,4 @@
-# Vývoj - Souboj s drakem
+# Vývoj - Souboj s drakem \(ELI5\)
 
 Na královském dvoře přistane velký, zlý drak a oznámí králi, že přišel nejdříve sežrat jeho jedinou dceru a potom postupně všechny další podanné. Král se nejdřívě vyděsí, ale potom si uvědomí, že by mohl s drakem vyjednávat. Po chvíli vyjednávání se dohodnou, že pokud jsou obyvatelé království chytřejší než drak, tak je nesežere a poletí někam jinam. Zkouška chytrosti bude následující:
 
