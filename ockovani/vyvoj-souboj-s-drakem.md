@@ -24,7 +24,7 @@ V tomto konkrétním případě 18 týmů mělo štěstí a kartu se jim povedlo
 
 Pokud nějaký tým našel kartu hned prvním výběrem, tak to neznamená, že podváděl. Taky to není důkaz toho, že draka do království nalíkali, domluvili se s ním na úkolu, aby si mohli připravit lektvar s předstihem.
 
-#### Covid
+### Covid
 
 V současné době se vakcínu snaží vyvinout více než [270](https://www.mc-praha.cz/mcp/prehled-vakcin-proti-covid-19-mechanismy-ucinku-vyhody-a-nevyhody/) různých týmů, takže se dá očekávat, že některé budou mít štěstí, a vyjde jim hned první nápad.
 
@@ -66,7 +66,7 @@ Když tým dva bude na vývoji pracovat 5 roků, tak za tu dobu stihne udělat 5
 
 Samotný časový o době vývoje nám nic neřekne o tom, jak bude výsledek kvalitní.
 
-#### Covid
+### Covid
 
 Pokud budete chtít vyvinout vakcínu pro vzteklině, tak část lidí naočkujete vakcínou a část placebem. Žádná etická komise vám nedovolí lidi cíleně nakazit, a nejspíše ani žádný dobrovolník nebude cíleně vyhledávat vzteklé psy. Jedinou věc, co můžete dělat je roky čekat, než dostatečný počet lidí s placebem bude pokousáno a vyvine se u nich vzteklina. Pak můžete začít ověřovat, že očkovaní lidé mají mezi sebou menší počet nakažených vzteklinou.
 
@@ -75,5 +75,6 @@ Při vývoji vakcíny proti SARS-CoV-2 máte výhodu. Zatímco nikdo nechce být
 ## Lepší technologie
 
 ## Odkazy
+
 * [https://colab.research.google.com/drive/1YjOP0Q6EtLlLcN5\_8FTit4LLppoICO0v?usp=sharing](https://colab.research.google.com/drive/1YjOP0Q6EtLlLcN5_8FTit4LLppoICO0v?usp=sharing)
 
