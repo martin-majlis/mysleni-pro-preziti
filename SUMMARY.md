@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Úvod](README.md)
+* [Kolik času je potřeba](kolik-casu-je-potreba.md)
 
 ## Přemýšlení
 
