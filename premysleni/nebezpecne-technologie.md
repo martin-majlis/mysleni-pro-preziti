@@ -18,10 +18,6 @@ Lidé měli obavy, že když se jim po aplikaci vakcíny začnou vyrůstat různ
 
 TODO: Myslím si, že byly i obavy, že při jízdě vlakem se v něm lidi udusí, protože se dovnitř nebude dostávat vzduch. Najít zdroj.
 
-
-
-
-
 ## Odkazy
 
 ### Telefon
@@ -35,6 +31,4 @@ TODO: Myslím si, že byly i obavy, že při jízdě vlakem se v něm lidi udus�
 * James Gillray - 1802 - The Cow-Pock—or—the Wonderful Effects of the New Inoculation! - [https://en.wikipedia.org/wiki/File:The\_cow\_pock.jpg](https://en.wikipedia.org/wiki/File:The_cow_pock.jpg)
 * [https://mcdreeamie.medium.com/smallpox-the-giants-shoulders-edward-jenner-stood-on-to-overcome-the-speckled-monster-bfb8e15acbe1](https://mcdreeamie.medium.com/smallpox-the-giants-shoulders-edward-jenner-stood-on-to-overcome-the-speckled-monster-bfb8e15acbe1)
 * [https://archive.is/ng4ie](https://archive.is/ng4ie#selection-703.72-703.99)
-
-
 

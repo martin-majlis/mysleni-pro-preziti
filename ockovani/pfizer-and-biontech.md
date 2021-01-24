@@ -39,32 +39,32 @@ Celkový počet participantů ve fázi 2/3 byl 43,448, 94,2% lidí s vakcínou a
 
 ### Onemocnění v čase
 
-![Kumulativní incidence od podání první dávky](../.gitbook/assets/pfizer-vaccine-efficiancy.png)
+![Kumulativn&#xED; incidence od pod&#xE1;n&#xED; prvn&#xED; d&#xE1;vky](../.gitbook/assets/pfizer-vaccine-efficiancy.png)
 
 ## Časová posloupnost
 
-* 30. duben 2020 - začátek klinické studie
-  * NCT04368728 - [https://clinicaltrials.gov/ct2/show/NCT04368728](https://clinicaltrials.gov/ct2/show/NCT04368728)
-  * Protokol ke klinické studii - [https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-09/C4591001\_Clinical\_Protocol.pdf](https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-09/C4591001_Clinical_Protocol.pdf)
-* 18. listopad 2020 - oznámení výsledků 3. fáze klinického testování
-  * [https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine)
-* 20. listopad 2020 - podali žádost FDA pro schválení
-  * [https://www.fda.gov/media/144416/download](https://www.fda.gov/media/144416/download)
-* 11. prosinec 2020 - FDA \(USA\) schvaluje vakcínu
-  * Podklady pro schůzi - [https://www.fda.gov/media/144246/download](https://www.fda.gov/media/144246/download)
-  * Záznam schůze - [https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-10-2020-meeting-announcement](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-10-2020-meeting-announcement)
-  * Výsledky schůze - [https://www.fda.gov/media/144416/download](https://www.fda.gov/media/144416/download)
-  * Oznámení o schválení - [https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccine](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccine)
-* 11. prosinec 2020 - MHRA \(UK\) - schvaluje vakcínu:
-  * [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/944544/COVID-19\_mRNA\_Vaccine\_BNT162b2\_\_UKPAR\_\_\_PFIZER\_BIONTECH\_\_15Dec2020.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/944544/COVID-19_mRNA_Vaccine_BNT162b2__UKPAR___PFIZER_BIONTECH__15Dec2020.pdf)
-* 21. prosinec 2020 - EC Schvaluje
-  * [https://ec.europa.eu/commission/presscorner/detail/en/ip\_20\_2466](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2466)
-  * Detailní informace v Češtině - [https://ec.europa.eu/health/documents/community-register/2020/20201221150522/anx\_150522\_cs.pdf](https://ec.europa.eu/health/documents/community-register/2020/20201221150522/anx_150522_cs.pdf)
-  * Evropská léková agentura \(EMA\) - [https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty](https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty)
-  * EMA v češtině - [https://www.ema.europa.eu/en/documents/overview/comirnaty-epar-medicine-overview\_cs.pdf](https://www.ema.europa.eu/en/documents/overview/comirnaty-epar-medicine-overview_cs.pdf)
-* 21. prosinec 2020 - Státní ústav pro kontrolu léčiv informuje o schválení
-  * Comirnaty přehledně: Důležitá fakta o první podmínečně registrované vakcíně proti COVID-19 v EU - [https://www.sukl.cz/sukl/comirnaty-prehledne-dulezita-fakta-o-prvni-podminecne](https://www.sukl.cz/sukl/comirnaty-prehledne-dulezita-fakta-o-prvni-podminecne)
-  * Comirnaty přehledně: Důležitá fakta o první podmínečně registrované vakcíně proti COVID-19 v EU - [https://www.sukl.cz/sukl/evropska-agentura-pro-lecive-pripravky-doporucila-udelit-1](https://www.sukl.cz/sukl/evropska-agentura-pro-lecive-pripravky-doporucila-udelit-1)
+* 1. duben 2020 - začátek klinické studie
+  2. NCT04368728 - [https://clinicaltrials.gov/ct2/show/NCT04368728](https://clinicaltrials.gov/ct2/show/NCT04368728)
+  3. Protokol ke klinické studii - [https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-09/C4591001\_Clinical\_Protocol.pdf](https://pfe-pfizercom-d8-prod.s3.amazonaws.com/2020-09/C4591001_Clinical_Protocol.pdf)
+* 1. listopad 2020 - oznámení výsledků 3. fáze klinického testování
+  2. [https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine)
+* 1. listopad 2020 - podali žádost FDA pro schválení
+  2. [https://www.fda.gov/media/144416/download](https://www.fda.gov/media/144416/download)
+* 1. prosinec 2020 - FDA \(USA\) schvaluje vakcínu
+  2. Podklady pro schůzi - [https://www.fda.gov/media/144246/download](https://www.fda.gov/media/144246/download)
+  3. Záznam schůze - [https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-10-2020-meeting-announcement](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-10-2020-meeting-announcement)
+  4. Výsledky schůze - [https://www.fda.gov/media/144416/download](https://www.fda.gov/media/144416/download)
+  5. Oznámení o schválení - [https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccine](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccine)
+* 1. prosinec 2020 - MHRA \(UK\) - schvaluje vakcínu:
+  2. [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/944544/COVID-19\_mRNA\_Vaccine\_BNT162b2\_\_UKPAR\_\_\_PFIZER\_BIONTECH\_\_15Dec2020.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/944544/COVID-19_mRNA_Vaccine_BNT162b2__UKPAR___PFIZER_BIONTECH__15Dec2020.pdf)
+* 1. prosinec 2020 - EC Schvaluje
+  2. [https://ec.europa.eu/commission/presscorner/detail/en/ip\_20\_2466](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2466)
+  3. Detailní informace v Češtině - [https://ec.europa.eu/health/documents/community-register/2020/20201221150522/anx\_150522\_cs.pdf](https://ec.europa.eu/health/documents/community-register/2020/20201221150522/anx_150522_cs.pdf)
+  4. Evropská léková agentura \(EMA\) - [https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty](https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty)
+  5. EMA v češtině - [https://www.ema.europa.eu/en/documents/overview/comirnaty-epar-medicine-overview\_cs.pdf](https://www.ema.europa.eu/en/documents/overview/comirnaty-epar-medicine-overview_cs.pdf)
+* 1. prosinec 2020 - Státní ústav pro kontrolu léčiv informuje o schválení
+  2. Comirnaty přehledně: Důležitá fakta o první podmínečně registrované vakcíně proti COVID-19 v EU - [https://www.sukl.cz/sukl/comirnaty-prehledne-dulezita-fakta-o-prvni-podminecne](https://www.sukl.cz/sukl/comirnaty-prehledne-dulezita-fakta-o-prvni-podminecne)
+  3. Comirnaty přehledně: Důležitá fakta o první podmínečně registrované vakcíně proti COVID-19 v EU - [https://www.sukl.cz/sukl/evropska-agentura-pro-lecive-pripravky-doporucila-udelit-1](https://www.sukl.cz/sukl/evropska-agentura-pro-lecive-pripravky-doporucila-udelit-1)
 
 ## Protokoly
 

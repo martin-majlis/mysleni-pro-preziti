@@ -9,5 +9,5 @@ Lidi, co zvolí druhou možnost se vyřadí z diskuze s první skupinou. Pokud p
 
 Výhoda toho druhé postupu je, že se dá používat opakovaně. Takže člověk měl, má, a vždycky bude mít pravdu a nikdy se nezmýlil. Takže i tvrzení - "Všechny květiny jsou růže." - se stane pro daného člověka pravdivé, když bude o čemkoliv jiném tvrdit, že je to plevel a ne květina.
 
-![Labuť černokrká - https://www.zoozlin.eu/labut-cernokrka/](../.gitbook/assets/labut-cernokrka.png)
+![Labu&#x165; &#x10D;ernokrk&#xE1; - https://www.zoozlin.eu/labut-cernokrka/](../.gitbook/assets/labut-cernokrka.png)
 
