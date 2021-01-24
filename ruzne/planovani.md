@@ -83,6 +83,7 @@ Ve svém vzdělání jsem tříkrát probral starověk, dvakrát středověk, al
 
 * German Tank Problem - [https://en.wikipedia.org/wiki/German\_tank\_problem](https://en.wikipedia.org/wiki/German_tank_problem)
 * An Empirical Approach to Economic Intelligence in World War II - [http://people.math.gatech.edu/~weiss/uploads/5/8/6/1/58618765/brodie\_an\_empirical\_approach\_to\_economic\_intelligence\_in\_world\_war\_ii.pdf](http://people.math.gatech.edu/~weiss/uploads/5/8/6/1/58618765/brodie_an_empirical_approach_to_economic_intelligence_in_world_war_ii.pdf)
+* Začátek německo sovětské války - [https://www.kulturni-noviny.cz/nezavisle-vydavatelske-a-medialni-druzstvo/archiv/online/2018/26-2018/selhani-rozvedek-par-poznamek-k-zacatku-nemecko-sovetske-valky](https://www.kulturni-noviny.cz/nezavisle-vydavatelske-a-medialni-druzstvo/archiv/online/2018/26-2018/selhani-rozvedek-par-poznamek-k-zacatku-nemecko-sovetske-valky)
 
 ### Double-Cross System
 
