@@ -10,13 +10,13 @@ Když se začaly objevovat stožáry pro 5G sítě, tak je lidé také začali n
 
 Edward Jenner vyvodil, že prodělání kravských neštovic chrání proti pravým neštovicím. V roce 1796 provedl experiment, kdy hnis z puchýřků od kravských neštovic naočkoval Jamesi Philipsovi. Když se za 6 týdnů uzdravil, tak mu podal virus pravých neštovic, ale chlapec neonemocněl.
 
-Lidé měli obavy, že když se jim po aplikaci vakcíny začnou vyrůstat různé kraví čísti. V Čechách se s očkováním začalo v roce 1821, takže se můžete přesvědčit o tom, kolik lidí takto dopadlo na historických fotograficíh.
+Lidé měli obavy, že když se jim po aplikaci vakcíny začnou vyrůstat různé kraví čísti. V Čechách se s očkováním začalo v roce 1821, takže se můžete přesvědčit o tom, kolik lidí takto dopadlo na historických fotografiích.
 
 ![James Gillray - 1802 - Kravsk&#xE9; ne&#x161;tovice - b&#xE1;je&#x10D;n&#xE9; &#xFA;&#x10D;inky nov&#xE9; vakc&#xED;ny](../.gitbook/assets/ockovani-cartoon.png)
 
 ## Vlaky
 
-TODO: Myslím si, že byly i obavy, že při jízdě vlakem se v něm lidi udusí, protože se dovnitř nebude dostavat vzduch. Najít zdroj.
+TODO: Myslím si, že byly i obavy, že při jízdě vlakem se v něm lidi udusí, protože se dovnitř nebude dostávat vzduch. Najít zdroj.
 
 
 

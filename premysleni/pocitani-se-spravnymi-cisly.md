@@ -12,7 +12,7 @@ Velice populární je dělení počtu nových pacientů v nemocnicích počtem n
 
 ### Rady ke změnám
 
-Výše uvedené dva příklady ze zdravotnictví mají jednu společnou vlastnost - trvá velmi dlouho, než se nevhodné chování nějak projeví. Takže rada - nečistěte si zuby a kuřte maximum cigaret, přece si nenecháte říkat, co máte dělat - je pro autora velmi bezpečná, protože se okamžitě neprojeví. A i kdyby se jí lidé řídili, tak zdravotnictví bude mít dost času se na vzniklou situaci připravit. Naopak rada - pijte savo, nebo vdechujte propan-butan a pak ho zapalte, abyste zabili viry - jsou nebezpečné nejen pro autora, ale povedou k okamžitému přetížení zdravotnictví, takže bude jasné, že nebyly dobré.
+Výše uvedené dva příklady ze zdravotnictví mají jednu společnou vlastnost - trvá velmi dlouho, než se nevhodné chování nějak projeví. Takže rada - nečistěte si zuby a kuřte maximum cigaret, přece si nenecháte říkat, co máte dělat - je pro autora velmi bezpečná, protože se okamžitě neprojeví. A i kdyby se jí lidé řídili, tak zdravotnictví bude mít dost času se na vzniklou situaci připravit. Naopak rada - pijte Savo, nebo vdechujte propan-butan a pak ho zapalte, abyste zabili viry - jsou nebezpečné nejen pro autora, ale povedou k okamžitému přetížení zdravotnictví, takže bude jasné, že nebyly dobré.
 
 ## Pozorování
 

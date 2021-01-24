@@ -1,14 +1,14 @@
 # Úvod
 
-V posledních měsících jsem strávil čtením komentářů na FB mnohem více času, než bych mohl kdykoliv připustit. Když se po uzavření škol začaly objevovat komentáře, že nám vyroste hloupá generace, tak mi tyto obavy přišly velmi neopodstatněné. Z komentářů to vypadalo, že už to horší být nemůže. 
+V posledních měsících jsem strávil čtením komentářů na Facebooku mnohem více času, než bych mohl kdykoliv připustit. Když se po uzavření škol začaly objevovat komentáře, že nám vyroste hloupá generace, tak mi tyto obavy přišly velmi neopodstatněné. Z komentářů to vypadalo, že už to horší být nemůže.
 
-## Doba strávená va škole
+## Doba strávená ve škole
 
-Pro dokončení základní a střední školy je v ní potřeba odsedět 13 roků x 9 měsíců  \* 20 dnů \* 5 vyučovacích hodin \* 45 minut = 877h = 365.6 dnů. To je obrovské množství času. Po jednom roce nepřetržitého výkladu by měl být takový člověk schopen vyznat se v komplikovaném světě. Podle komentárů to tak nevypadalo ani náhodou.
+Pro dokončení základní a střední školy je v ní potřeba odsedět 13 roků x 9 měsíců  \* 20 dnů \* 5 vyučovacích hodin \* 45 minut = 877h = 365.6 dnů. Jeden celý rok. To je obrovské množství času. Po jednom roce nepřetržitého výkladu by měl být takový člověk schopen vyznat se v komplikovaném světě. Podle komentářů to tak nevypadalo ani náhodou.
 
 Kolik času je tedy potřeba? Je ho potřeba více? Je ten čas efektivně využit? Paretův princip říká, že 80% důsledků plyne z 20% příčin. Toto platí v ekonomii - 20% nejbohatších lidí vlastní 80% půdy, pár nejúspěšnějších produktů je zodpovědných za většinu prodejů. Ve sportu pár nejlepších hráčů nasbírá většinu všech gólů/bodů/výher.
 
-Může něco takového platit i pro množství vědomostí, které jsou potřeba pro zvládnutí života v informačním věku? 
+Může něco takového platit i pro množství vědomostí, které jsou potřeba pro zvládnutí života v informačním věku?
 
 ## Rady do života
 
